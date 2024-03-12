@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lab/static/css/main.0887d96f.css",
+    "main.js": "/lab/static/js/main.9d0a4f26.js",
+    "static/js/453.c849f224.chunk.js": "/lab/static/js/453.c849f224.chunk.js",
+    "static/media/MRUH_Logo.webp": "/lab/static/media/MRUH_Logo.84bf25be5d617b23b50d.webp",
+    "index.html": "/lab/index.html",
+    "main.0887d96f.css.map": "/lab/static/css/main.0887d96f.css.map",
+    "main.9d0a4f26.js.map": "/lab/static/js/main.9d0a4f26.js.map",
+    "453.c849f224.chunk.js.map": "/lab/static/js/453.c849f224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0887d96f.css",
+    "static/js/main.9d0a4f26.js"
+  ]
+}
